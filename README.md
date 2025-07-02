@@ -13,7 +13,7 @@ https://swejal19.github.io/Rock-Paper-Scissor-game/
   
 <b>Getting Started</b>
 
-<b>Prerequisites</b>
+<b>Prerequisites</b><br>
 A modern web browser (Chrome, Firefox, Safari, Edge)
 
 <b>Usage</b>
@@ -24,13 +24,13 @@ A modern web browser (Chrome, Firefox, Safari, Edge)
 5. Click Reset to start over
    
 <b>Project Structure</b>
-Rock-Paper-Scissor-game/
+<pre>Rock-Paper-Scissor-game/
 │
 ├── index.html         ← Main HTML file
 ├── css/
 │   └── style.css      ← Game styles
 ├── js/
-      └── script.js      ← Game logic
+      └── script.js      ← Game logic</pre>
 
 <b>Technologies Used</b>
 - HTML5 – Page markup
