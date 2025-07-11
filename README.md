@@ -3,7 +3,7 @@
 A classic Rock‑Paper‑Scissors game built with HTML, CSS, and JavaScript, where you face off against the computer in a fun, interactive match.
 
 <b>Demo</b>
-Include screenshots or link to a live demo:
+link:
 https://swejal19.github.io/Rock-Paper-Scissor-game/
 - 🆚 Play rock, paper, or scissors against a computer opponent
 - 🎯 Randomized computer moves
